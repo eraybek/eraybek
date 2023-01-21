@@ -34,4 +34,4 @@
 </a>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraybek&layout=compact" alt="eraybek" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eraybek&layout=compact" alt="eraybek" /></p>
