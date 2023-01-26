@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47r68m3fb4j8xfpb2e5ch4la3bfp1g5j82n2oqvys7&rid=giphy.gif&ct=g">
 
-- 👨‍💻 All of my projects are available at [Github.io](https://eraybek.github.io/front-end-projects/)
+- 👨‍💻 All of my projects are available at [Github.io](https://eraybek.github.io/)
 
 - 🌱 I’m currently learning [React ](https://app.patika.dev/eraybek)<img  alt="Coding" width="20" src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667">
 
