@@ -3,8 +3,8 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47r68m3fb4j8xfpb2e5ch4la3bfp1g5j82n2oqvys7&rid=giphy.gif&ct=g">
 
+- 🎮 All of my Unity projects are available at [Itch.io](https://eraybek.itch.io/)
 - 👨‍💻 All of my front-end projects are available at [Github.io](https://eraybek.github.io/) 
-<!-- - 🎮 All of my Unity projects are available at [Itch.io](https://eraybek.itch.io/) -->
 
 - 📫 How to reach me **aybek17@itu.edu.tr**
 
